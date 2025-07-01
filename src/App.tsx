@@ -94,7 +94,7 @@ export function ProjectsGrid() {
         title="Portfolio Website"
         description="A minimalist portfolio website showcasing projects and skills with a clean, responsive design."
         techStack={["Next.js", "TypeScript", "Tailwind CSS"]}
-        viewUrl="https://portfolio-shrey.vercel.app/"
+        viewUrl="https://portfolio-shrey.vercel.app"
       />
 
       <ProjectGridItem
@@ -240,7 +240,7 @@ export function ProjectsGrid() {
         title="Portfolio Website"
         description="A minimalist portfolio website showcasing projects and skills with a clean, responsive design."
         techStack={["Next.js", "TypeScript", "Tailwind CSS"]}
-        viewUrl="https://portfolio-shrey.vercel.app/"
+        viewUrl="https://portfolio-shrey.vercel.app"
       />
 
       <ProjectGridItem
