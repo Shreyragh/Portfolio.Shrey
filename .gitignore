@@ -1,0 +1,12 @@
+# Node and build stuff
+node_modules/
+dist/
+build/
+.next/
+.pnpm-debug.log
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
