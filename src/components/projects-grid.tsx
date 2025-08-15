@@ -15,7 +15,6 @@ export function ProjectsGrid() {
         description="An NLP-powered tool to identify and classify misleading news using machine learning algorithms."
         techStack={["Python", "Scikit-learn", "NLTK", "Flask"]}
         githubUrl="https://github.com/Shreyragh/Fake-news-detector"
-        viewUrl="https://fake_news.example"
       />
 
       <ProjectGridItem
@@ -25,7 +24,6 @@ export function ProjectsGrid() {
         description="A full-featured e-commerce platform with product management, cart functionality, and payment processing."
         techStack={["React.js", "Next.js", "TypeScript", "MySql"]}
         githubUrl="https://github.com/Shreyragh/ez-store"
-        viewUrl="https://ecommerce.example"
       />
 
       <ProjectGridItem
@@ -43,8 +41,7 @@ export function ProjectsGrid() {
         title="Work Hours Tracker - Web"
         description="A collaborative task management web application with real-time updates and team functionality."
         techStack={["Next.js", "TypeScript", "Supabase"]}
-        githubUrl="https://github.com/Shreyragh"
-        viewUrl="https://tracker-web.example"
+        githubUrl="https://github.com/Shreyragh/Work_Hours-Tracker"
       />
 
       <ProjectGridItem
@@ -53,7 +50,7 @@ export function ProjectsGrid() {
         title="Work Hours Tracker - Mobile"
         description="A collaborative task management mobile application with real-time updates and team functionality."
         techStack={["Expo", "React Native", "TypeScript"]}
-        githubUrl="https://github.com/Shreyragh"
+        githubUrl="https://github.com/Shreyragh/Work_Hours-Tracker"
       />
     </ul>
   );
