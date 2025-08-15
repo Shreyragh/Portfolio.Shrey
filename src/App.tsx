@@ -22,10 +22,9 @@ function App() {
           
           <section className="mb-8">
             <p className="text-muted-foreground mb-4">
-              Full Stack Dev. Open to work. Contact me below.
-              
+              Full Stack Dev. Open to work. Contact me below.<br />
               Currently building PrevyaCare
-              (Which is basically an initiative for Cancer Patients).
+            (An initiative for Cancer Patients).
             </p>
             <SocialLinks />
           </section>
